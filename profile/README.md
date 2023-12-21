@@ -22,3 +22,10 @@ Kalmakasa is an application that combines artificial intelligence with mental co
 | Muhammad Dzaky Nashshar | A128BSY2275 | Mobile Development |
 | Fawwaz Ijlal Muqsith | A355BSY2355| Mobile Development |
 
+## Documentation Details
+
+For detail information and documentation can be access in each github repository below <br/>
+Android Application : `https://github.com/bangkit-capstone-CH2-PS311/kalmakasa-app` <br/>
+Backend : `https://github.com/bangkit-capstone-CH2-PS311/kalmakasa-be` <br/>
+Machine Learning : `https://github.com/bangkit-capstone-CH2-PS311/kalmakasa-ml`
+

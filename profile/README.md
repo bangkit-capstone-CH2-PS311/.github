@@ -1,12 +1,13 @@
-## Hi there 👋
+# Kalmakasa - AI-enhanced Digital Conseling Platform
 
-<!--
+our main features and goals are...
 
-**Here are some ideas to get you started:**
+## Our Lovely Developers
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Name  | Bangkit ID | Learning Path |
+| Zaky Akbar Maulana | M399BSY0988 | Machine Learning |
+| Rajestika Faldela Ramanov | M299BSY0251 | Machine Learning |
+| Aloysius Gilang Pramudya | C002BSY3365 | Cloud Computing |
+| Farhan Hafiz | C002BSY3111 | Cloud Computing |
+| Muhammad Dzaky Nashshar | A128BSY2275 | Mobile Development |
+| Fawwaz Ijlal Muqsith | A355BSY2355| Mobile Development |

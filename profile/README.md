@@ -1,10 +1,11 @@
-# Kalmakasa - AI-enhanced Digital Conseling Platform
+## Kalmakasa - AI-enhanced Digital Conseling Platform
 
 our main features and goals are...
 
 ## Our Lovely Developers
 
 | Name  | Bangkit ID | Learning Path |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Zaky Akbar Maulana | M399BSY0988 | Machine Learning |
 | Rajestika Faldela Ramanov | M299BSY0251 | Machine Learning |
 | Aloysius Gilang Pramudya | C002BSY3365 | Cloud Computing |

@@ -2,7 +2,14 @@
 
 ![kalmakasa_banner](https://github.com/bangkit-capstone-CH2-PS311/.github/assets/97614270/494b3dbc-0da7-4202-b2f0-71bd07b12d4d)
 
-our main features and goals are...
+Kalmakasa is an application that combines artificial intelligence with mental counseling services to provide reliable support in maintaining the mental health of its users. The app is designed to help individuals overcome mental challenges, stress, anxiety, and various other psychological issues.
+
+## Features
+
+- AI-enhanced Mood Journaling
+- Connect with personalize mental health experts
+- Kalmbot - Your personal mental health chatbot
+- Mental Health Early Diagnosis using DASS21
 
 ## Our Lovely Developers
 
